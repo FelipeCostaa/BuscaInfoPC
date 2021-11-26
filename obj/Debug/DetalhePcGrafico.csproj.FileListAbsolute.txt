@@ -1,0 +1,10 @@
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\bin\Debug\DetalhePcGrafico.exe.config
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\bin\Debug\DetalhePcGrafico.exe
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\bin\Debug\DetalhePcGrafico.pdb
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.csproj.AssemblyReference.cache
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.Form1.resources
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.Properties.Resources.resources
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.csproj.GenerateResource.cache
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.exe
+C:\Users\costa\Documents\Projetos\DetalhePcGrafico\obj\Debug\DetalhePcGrafico.pdb
